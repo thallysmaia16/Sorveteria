@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Lato:wght@300;400;700&display=swap');
+
+html, body{
+    font-family: 'Italiana';
+    padding: 0px;
+    margin: 0px;
+    background-color: #212121;
+}
+
+#login .container #login-row #login-column #login-box{
+    margin-top: auto;
+    max-width: 600px;
+    height: 300px;
+    border: 1px solid black;
+    background-color: #e695ff;
+    border-radius: 20px;
+    margin: auto;
+    padding: auto;
+}
+#login .container #login-row 
+    #login-column #login-box #login-form{
+        padding: 20px;
+        margin-top: 30px;
+}
+#register .container #register-row #register-column #register-box{
+    margin-top: auto;
+    max-width: 600px;
+    height: 380px;
+    border: 1px solid black;
+    background-color: #e695ff;
+    border-radius: 20px;
+    margin: auto;
+    padding: auto;
+}
+#register .container #register-row 
+    #register-column #register-box #register-form{
+        padding: 20px;
+        margin-top: 30px;
+}
+
+
+button{
+    color: white;
+    background-color: #212121;
+    font-weight: 500;
+    border:2px solid #e695ff;
+    font-size: 1.1em;
+    font-family: 'Italiana';
+    padding: 2px 5px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: 0.5s;
+}
