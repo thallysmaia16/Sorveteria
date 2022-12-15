@@ -1,0 +1,15 @@
+{
+  "name": "thallysweb",
+  "version": "1.0.0",
+  "description": "💻🌮 Site criado com HTML, CSS e JavaScript para exibição dos alimentos oferecidos pelo restaurante FastFit.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
