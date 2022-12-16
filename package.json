@@ -4,12 +4,16 @@
   "description": "💻🌮 Site criado com HTML, CSS e JavaScript para exibição dos alimentos oferecidos pelo restaurante FastFit.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node js/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
